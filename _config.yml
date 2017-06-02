@@ -14,3 +14,4 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'http://morbidrsa.github.io'
 author:         'Johannes Thumshirn'
+github_username: morbidrsa
